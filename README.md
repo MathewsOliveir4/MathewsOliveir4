@@ -1,7 +1,8 @@
-<img src="assets/banner.svg" width="100%" alt="MathewsOliveir4 — estudando cibersegurança"/>
+<img src="assets/banner.svg" width="100%" alt="Matheus Oliveira — química, cibersegurança e IA"/>
 
 <p align="center">
-  Aprendendo segurança da informação na prática. Novos projetos em breve. 🛡️
+  🧪 Licenciatura em Química (FURG) &nbsp;·&nbsp; 🛡️ Cibersegurança &nbsp;·&nbsp; 🤖 IA generativa<br/>
+  <sub>Novos projetos de segurança em breve.</sub>
 </p>
 
 ### 📌 Em destaque
