@@ -1,8 +1,7 @@
 <img src="assets/banner.svg" width="100%" alt="Matheus Oliveira — química, cibersegurança e IA"/>
 
 <p align="center">
-  🧪 Licenciatura em Química (FURG) &nbsp;·&nbsp; 🛡️ Cibersegurança &nbsp;·&nbsp; 🤖 IA generativa<br/>
-  <sub>Novos projetos de segurança em breve.</sub>
+  🧪 Química &nbsp;·&nbsp; 🛡️ Cibersegurança &nbsp;·&nbsp; 🤖 IA Generativa
 </p>
 
 ### 📌 Em destaque
