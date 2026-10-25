@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="MathewsOliveir4 — Estudando cibersegurança">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#111C3A"/>
+    </linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity=".05" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx=".82" cy=".5" r=".45">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#glow)"/>
+
+  <!-- escudo -->
+  <g transform="translate(905 58)">
+    <path d="M90 0 L176 32 V96 C176 150 140 190 90 210 C40 190 4 150 4 96 V32 Z" fill="none" stroke="url(#ac)" stroke-width="6" stroke-linejoin="round"/>
+    <rect x="62" y="92" width="56" height="46" rx="8" fill="url(#ac)"/>
+    <path d="M72 92 V78 a18 18 0 0 1 36 0 V92" fill="none" stroke="url(#ac)" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="90" cy="112" r="6" fill="#0B1020"/>
+    <rect x="87" y="114" width="6" height="12" rx="3" fill="#0B1020"/>
+  </g>
+
+  <text x="72" y="118" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="22" fill="#94A3B8" letter-spacing="3">OLÁ, EU SOU</text>
+  <text x="70" y="178" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#F8FAFC">MathewsOliveir4</text>
+  <rect x="72" y="200" width="88" height="5" rx="2.5" fill="url(#ac)"/>
+  <text x="72" y="244" font-family="Consolas, 'Fira Code', Menlo, monospace" font-size="22" fill="#22D3EE">&gt; estudando cibersegurança<tspan fill="#F8FAFC">_<animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+</svg>
